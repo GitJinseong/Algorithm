@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 4.21 MB, 시간: 0.01 ms
+메모리: 4.17 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -34,20 +34,20 @@ Empty
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">my_string</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">편지</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">결과</font></font></th>
+<th>my_string</th>
+<th>letter</th>
+<th>result</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"abcdef"</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"에프"</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"에이 비 씨 디이"</font></font></td>
+<td>"abcdef"</td>
+<td>"f"</td>
+<td>"abcde"</td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"BCBdbe"</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"비"</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"Cdbe"</font></font></td>
+<td>"BCBdbe"</td>
+<td>"B"</td>
+<td>"Cdbe"</td>
 </tr>
 </tbody>
       </table>
