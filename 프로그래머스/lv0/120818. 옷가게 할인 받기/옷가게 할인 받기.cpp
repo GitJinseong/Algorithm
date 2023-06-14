@@ -9,7 +9,7 @@ int solution(int price) {
     int discountPrice[3] = {100000, 300000, 500000};
     int size = sizeof(discountPrice) / 4;
     
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < size; i++)
     {
         
         if (price >= discountPrice[i])
