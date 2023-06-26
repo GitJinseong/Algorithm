@@ -1,7 +1,6 @@
 using System;
 using System.Linq;
 
-// 셔플로 정렬한 후 인덱스에 중앙 값넣기
 public class Solution {
     public int solution(int[] array) {
         int answer = 0;
